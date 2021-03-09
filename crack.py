@@ -1,3 +1,6 @@
+#Recod? Sertakan author
+#Author : Latip176
+#Facebook : Latip Harkat
 import requests as req,json,time,pyfiglet,os
 from concurrent.futures import ThreadPoolExecutor as Bool
 from bs4 import BeautifulSoup as parser
