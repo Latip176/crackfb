@@ -16,7 +16,7 @@ $git clone https://github.com/Latip176/crackfb
 $pip install requests
 $pip install pyfiglet
 $pip install bs4
-$cd crack
+$cd crackfb
 $python3 crack.py
 ```
 # addtional information
