@@ -12,7 +12,7 @@ Dosa Ditanggung Yang Pake!
 $pkg install python -y
 $pkg install python3
 $pkg install git -y
-$git clone https://github.com/Latip176/crack
+$git clone https://github.com/Latip176/crackfb
 $pip install requests
 $pip install pyfiglet
 $pip install bs4
